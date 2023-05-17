@@ -1,0 +1,13 @@
+Business entities and Business Operatios:
+
+1:User:-
+user id,username,mobile number,Email-id,Password
+
+2.Payment:-
+payment id,price,payment method, status of payment
+
+3.Reveiws and Ratings:-
+review id,reviews,user id
+
+4.History
+history id,review id,user id payment id, ticket confirmation,camcellation ticket

@@ -1,0 +1,78 @@
+Functional requirement:
+User Registration:
+The user should be able to register themselves and add the details to create the account. The details should include the
+username, user mail id, user mobile number and add the password and confirm the password.
+If the data is valid then and then only the user will be able to create the account. If the data is
+not valid the user will not be able to create the account.
+
+User Login:
+Registered users should be able to login to the page. The user has to select the city or the
+address of his current location so that the user will be able to see the nearby theatres.
+
+Seat selection:
+User should check the list and accordingly he has to go for seat allocation based on their
+preference and seats available.
+
+Payment Integration:
+Enable user to Online payment page where the user will pay the amount in various payment
+gateway for booking the ticket for the show.
+
+Booking Confirmation:
+User should receive the booking confirmation mail or message after successful payment and
+booking with the details of mode of transportation name, time, number of seats booked by the user .
+
+Cancellation and refund:
+The user must be able to cancel the booked seats only if the terms and conditions are followed
+by the user.
+If the user cancels the booked tickets, they will get the refund if the criteria matches.
+
+Reviews and Ratings:
+Users should be able to give the reviews and ratings on the platform for movies, theater
+services. They should be able to see the reviews and rating of other peoples based on their
+experience.
+
+User Profile:
+The users must be able to check the history of his activities and personal data, and able to
+update the data.
+
+NON-FUNCTIONAL REQUIREMENT:
+
+SECURITY:
+Registered Customer will be allowed to book the tickets. Stakeholders will be able to access the
+content through authentication. System would protect confidential information of stakeholder to
+the system. Use proper firewall to protect servers from outside fishing, vulnerable
+attacks.
+
+RELIABLITY:
+System will backup data on regular basis to avoid data loss.
+During peak hours system should handle large amount of traffic and transaction without
+crashing and keeping same user experience.
+
+AVAILABLITY:
+System should be available 24*7 hrs.
+
+MAINTAINABLITY:
+System should be easy to maintain and upgrade. Commercial database software will be used to
+maintain system data persistence. Separate environment will be maintained for production,
+testing and development.
+
+COMPATABLITY:
+System should be compatible for all devices and browsers.
+
+ACCESSIBLITY:
+Only registered customer will be able to book tickets after authenticate.
+Board of director team will be able to view daily, weekly, monthly, annual business growth
+through customize dashboard.
+
+DURABLITY:
+System will maintain wish list for customer. The customer will able to add shows, plays,
+concerts to the wish list.
+
+EFFICIENCY:
+On holidays and festival, the maximum no of users will book tickets with the same response
+times
+
+SAFETY:
+Online ticket booking portal will be secure form malicious attack, fishing payment functionalities will be
+protected. It should be regularly updated with latest antivirus and online ticket booking should be
+protected from outside with proper firewall.
